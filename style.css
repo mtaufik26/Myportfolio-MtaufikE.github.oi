@@ -312,4 +312,5 @@ a:link{
     list-style: none;
     margin: 5%;
     display:inline-flex;
+    border-radius: 10%;
 }
